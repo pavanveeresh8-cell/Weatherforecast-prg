@@ -18,4 +18,7 @@ This is a simple Weather Forecast web application that shows the current weather
 - Dark mode
 
 ## Author
-Pavan Veeresh
+Dhanu shree
+## 🌐 Live Demo
+
+👉 [Click here to open the live Weather Forecast App](https://weatherforecast-prg.onrender.com)
